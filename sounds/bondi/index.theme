@@ -1,0 +1,5 @@
+[Sound Theme]
+Name=Bondi
+Comment=Classic Mac OS 9 era sounds for the Bondi theme — Quack, Sosumi, Wild Eep and friends
+Directories=stereo
+Inherits=freedesktop
